@@ -1,0 +1,59 @@
+ol, ul{
+    list-style: none;
+}
+a{
+    text-decoration: none; 
+}
+span{
+    color: rgb(31, 134, 31);
+}
+div{
+    margin: 20px;
+}
+#title1{
+    color: rgb(219, 54, 54);
+}
+body{
+    background-color: rgb(219, 255, 220);
+}
+.fa-solid{
+    color: rgb(31, 134, 31);
+}
+img{
+    width: 250px;
+}
+h3{
+    background-color: rgb(255, 239, 230);
+}
+.pie-1{
+    background-color: rgb(228, 200, 225);
+}
+.menuprincipal{
+    display: flex;
+    justify-content: space-around;
+    gap: 1.3em;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    gap: 1.5em;
+}
+header nav{
+    background-color: rgb(255, 231, 231);
+    display: flex;
+    align-items: baseline;
+}
+header nav ul li{
+    color: rgb(63, 63, 1);
+
+}
+header i{
+    color: rgb(63, 63, 1);
+
+}
+main section{
+    display: flex;
+}
+p{
+    font-size: 1.3em;
+}
